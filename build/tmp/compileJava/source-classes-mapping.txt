@@ -1,0 +1,7 @@
+ru/netology/Status.java
+ ru.netology.Status
+ru/netology/Main.java
+ ru.netology.Main
+ ru.netology.Main$1
+ru/netology/Post.java
+ ru.netology.Post
